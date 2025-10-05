@@ -48,7 +48,7 @@ Too low! Attempts left: 9
 
 
 ---
-🧩 Sudoku Solver
+🧩3. Sudoku Solver
 This repository contains a beginner-friendly Java console project that demonstrates backtracking, recursion, and 2D array manipulation.
 
 📌 Project
@@ -96,7 +96,7 @@ Solved Sudoku:
 
 
 ----
-🛒 Product Scraper
+🛒 4.  Product Scraper
 This repository contains a beginner-friendly Java console project that demonstrates web scraping, data extraction, and file handling using JSoup.
 
 📌 Project
